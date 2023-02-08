@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--소개-->
 
 ## Introduction :raised_hands:
-Hi, I am trying to become a nice developer😎
+Hi, I am trying to become a nice Frontend developer😎
 <br/><br/>
  
  
