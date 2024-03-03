@@ -56,7 +56,7 @@ I think the most important thing in development is communication.
  <br/>
  <br/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeonga-yeon)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonga-yeon&layout=compact"><br><br>
  
  </div>
