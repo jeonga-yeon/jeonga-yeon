@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Hi, I am a Full-Stack developer😎 <br>
 I think the most important thing in development is communication.
 
-<br/><br/>
+<br/>
  
  
  <!--기술스택-->
